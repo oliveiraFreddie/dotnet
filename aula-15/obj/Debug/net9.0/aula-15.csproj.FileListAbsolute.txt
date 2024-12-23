@@ -1,0 +1,15 @@
+C:\Users\fredd\Development\dotnet\aula-15\bin\Debug\net9.0\aula-15.exe
+C:\Users\fredd\Development\dotnet\aula-15\bin\Debug\net9.0\aula-15.deps.json
+C:\Users\fredd\Development\dotnet\aula-15\bin\Debug\net9.0\aula-15.runtimeconfig.json
+C:\Users\fredd\Development\dotnet\aula-15\bin\Debug\net9.0\aula-15.dll
+C:\Users\fredd\Development\dotnet\aula-15\bin\Debug\net9.0\aula-15.pdb
+C:\Users\fredd\Development\dotnet\aula-15\obj\Debug\net9.0\aula-15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredd\Development\dotnet\aula-15\obj\Debug\net9.0\aula-15.AssemblyInfoInputs.cache
+C:\Users\fredd\Development\dotnet\aula-15\obj\Debug\net9.0\aula-15.AssemblyInfo.cs
+C:\Users\fredd\Development\dotnet\aula-15\obj\Debug\net9.0\aula-15.csproj.CoreCompileInputs.cache
+C:\Users\fredd\Development\dotnet\aula-15\obj\Debug\net9.0\aula-15.sourcelink.json
+C:\Users\fredd\Development\dotnet\aula-15\obj\Debug\net9.0\aula-15.dll
+C:\Users\fredd\Development\dotnet\aula-15\obj\Debug\net9.0\refint\aula-15.dll
+C:\Users\fredd\Development\dotnet\aula-15\obj\Debug\net9.0\aula-15.pdb
+C:\Users\fredd\Development\dotnet\aula-15\obj\Debug\net9.0\aula-15.genruntimeconfig.cache
+C:\Users\fredd\Development\dotnet\aula-15\obj\Debug\net9.0\ref\aula-15.dll
